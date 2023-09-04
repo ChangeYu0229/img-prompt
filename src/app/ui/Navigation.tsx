@@ -22,7 +22,7 @@ const items: MenuProps["items"] = [
   {
     label: (
       <a
-        href='https://newzone.top/posts/2022-09-05-stable_diffusion_ai_painting.html'
+        href='https://ssw9noe1h6.feishu.cn/wiki/wikcnEoAKpXgcrmGQRBRvkcd1Ue'
         target='_blank'
         rel='noopener noreferrer'>
         Stable Diffusion 入门教程
