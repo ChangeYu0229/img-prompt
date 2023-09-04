@@ -68,7 +68,7 @@ export function Navigation() {
         <Row gutter={16} wrap={false}>
           <Col xs={0} sm={0} md={18}>
             <a
-              href='https://discord.gg/PZTQfJ4GjX'
+              href=''
               target='_blank'
               rel='noopener noreferrer'>
               <img
@@ -79,7 +79,7 @@ export function Navigation() {
           </Col>
           <Col>
             <a
-              href='https://github.com/rockbenben/img-prompt'
+              href=''
               target='_blank'
               rel='noopener noreferrer'
               style={{ marginLeft: "10px" }}>
