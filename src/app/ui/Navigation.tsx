@@ -43,18 +43,7 @@ const items: MenuProps["items"] = [
     key: "aishort",
     icon: <ExperimentOutlined />,
   },
-  {
-    label: (
-      <a
-        href='https://tools.newzone.top/json-translate'
-        target='_blank'
-        rel='noopener noreferrer'>
-        文本处理工具
-      </a>
-    ),
-    key: "Tools",
-    icon: <ToolOutlined />,
-  },
+
 ];
 
 export function Navigation() {
