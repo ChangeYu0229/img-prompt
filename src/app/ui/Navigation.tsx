@@ -76,30 +76,9 @@ export function Navigation() {
           items={items}
         />
       </Col>
-      <Col>
-        <Row gutter={16} wrap={false}>
-          <Col xs={0} sm={0} md={18}>
-            <a
-              href=''
-              target='_blank'
-              rel='noopener noreferrer'>
-              <img
-                src='https://img.shields.io/discord/1048780149899939881?color=%2385c8c8&label=Discord&logo=discord&style=for-the-badge'
-                alt='chat on Discord'
-              />
-            </a>
-          </Col>
-          <Col>
-            <a
-              href=''
-              target='_blank'
-              rel='noopener noreferrer'
-              style={{ marginLeft: "10px" }}>
-              <GithubOutlined style={{ color: "black", fontSize: "24px" }} />
-            </a>
-          </Col>
-        </Row>
-      </Col>
+    
+
+
     </Row>
   );
 }
