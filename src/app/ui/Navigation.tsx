@@ -37,7 +37,19 @@ const items: MenuProps["items"] = [
         href='https://gptprompt.aigc369.com'
         target='_blank'
         rel='noopener noreferrer'>
-        ChatGPT Shortcut
+        AI 提示词
+      </a>
+    ),
+    key: "aishort",
+    icon: <ExperimentOutlined />,
+  },
+  {
+    label: (
+      <a
+        href='https://pd.qq.com/s/43ts2mp9l'
+        target='_blank'
+        rel='noopener noreferrer'>
+        加入QQ频道
       </a>
     ),
     key: "aishort",
